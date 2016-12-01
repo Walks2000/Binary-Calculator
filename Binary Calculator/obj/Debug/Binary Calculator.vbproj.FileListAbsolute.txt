@@ -1,0 +1,9 @@
+c:\users\neil\documents\visual studio 2012\Projects\Binary Calculator\Binary Calculator\bin\Debug\Binary Calculator.exe.config
+c:\users\neil\documents\visual studio 2012\Projects\Binary Calculator\Binary Calculator\bin\Debug\Binary Calculator.exe
+c:\users\neil\documents\visual studio 2012\Projects\Binary Calculator\Binary Calculator\bin\Debug\Binary Calculator.pdb
+c:\users\neil\documents\visual studio 2012\Projects\Binary Calculator\Binary Calculator\bin\Debug\Binary Calculator.xml
+c:\users\neil\documents\visual studio 2012\Projects\Binary Calculator\Binary Calculator\obj\Debug\Binary_Calculator.Resources.resources
+c:\users\neil\documents\visual studio 2012\Projects\Binary Calculator\Binary Calculator\obj\Debug\Binary Calculator.vbproj.GenerateResource.Cache
+c:\users\neil\documents\visual studio 2012\Projects\Binary Calculator\Binary Calculator\obj\Debug\Binary Calculator.exe
+c:\users\neil\documents\visual studio 2012\Projects\Binary Calculator\Binary Calculator\obj\Debug\Binary Calculator.xml
+c:\users\neil\documents\visual studio 2012\Projects\Binary Calculator\Binary Calculator\obj\Debug\Binary Calculator.pdb
